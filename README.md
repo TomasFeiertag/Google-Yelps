@@ -174,9 +174,6 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ## Diagrama de GanttProject (Division de tareas claras)
 ![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Project.png)
 
-## Diagrama hecho en Asana (A quien se le asigna cada tarea)
-![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Asana.png)
-
 
 <!-- PIPELINE -->
 
