@@ -173,9 +173,4 @@ Los datos son extraídos de la plataforma de reseñas **Yelp** y de **Google Map
 * **Notebooks/** : Notebooks de Jupyter con el análisis y modelos.
 * **ETL/** : Notebooks de Jupyter con el trabajo sobre los datos.
 * **ML/** : El modelo de ML.
-  
-<!-- REFERENCIAS -->
 
-## Referencias
-- Documentación de [Yelp API](https://www.yelp.com/developers/documentation/v3)
-- Documentación de [Google Maps API](https://developers.google.com/maps/documentation)
