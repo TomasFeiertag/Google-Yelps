@@ -5,23 +5,32 @@
 
 <!-- TABLA DE CONTENIDO -->
 
+## Tabla de Contenido
+1. [¿Quiénes Somos?](#quiénes-somos)
+2. [Proyecto Salford-Filadelfia](#proyecto-salford-filadelfia)
+3. [Integrantes y Roles](#integrantes-y-roles)
+4. [Misión, Visión y Valores](#misión-visión-y-valores)
+5. [Objetivos Específicos](#objetivos-específicos)
+6. [Stack Tecnológico](#stack-tecnológico)
+7. [Diagrama de Gantt](#diagrama-de-gantt)
+
+<!-- ¿QUIÉNES SOMOS? -->
+
 ## ¿Quiénes Somos?
-1. [Integrantes](#integrantes-y-roles)
-2. [Misión](#misión)
-3. [Visión](#visión)
-4. [Valores](#valores)
+Un equipo comprometido con ofrecer soluciones innovadoras impulsadas por la ciencia de datos.
+
+<!-- PROYECTO SALFORD-FILADELFIA -->
 
 ## Proyecto Salford-Filadelfia
-1. [Objetivos Específicos](#objetivos-específicos)
-2. [Stack Tecnológico](#stack-tecnológico)
-3. [Diagrama Gantt](#diagrama-de-ganttproject-division-de-tareas-claras)
-4. [EDA](#análisis-exploratorio-de-datos)
-5. [MODELO ML](#modelo-machine-learning)
-6. [KPI's](#key-performance-indicators-kpis)
-7. [Datasets](#datasets-y-fuentes-complementarias)
-8. [Estructura](#estructura-del-proyecto)
+![Proyecto Salford-Filadelfia](./Data/Images/Salford-Filadelfia.png)
 
-<!-- PARTE INTEGRANTES Y ROLES -->
+### Contexto
+Un inversor nos contrató para realizar un análisis de mercado y ofrecerle diferentes propuestas de negocios para invertir su capital en la ciudad de Filadelfia, USA. Usaremos reseñas obtenidas de Yelp y Google Maps para determinar el mejor rubro y las mejores ubicaciones para nuevos locales.
+
+### Alcance
+El enfoque de nuestro alcance es toda el área comercial que hay en la ciudad de Filadelfia (EE.UU), entre 2015 y 2022.
+
+<!-- INTEGRANTES Y ROLES -->
 
 ## Integrantes y Roles
 * Thomas Bracamonte: Data Engineer.
@@ -30,62 +39,46 @@
 * Francisco Iturriaga: Data Analyst.
 * Pablo Cesar: Machine Learning Ops.
 
-<!-- INTRODUCCION -->
+<!-- MISIÓN, VISIÓN Y VALORES -->
 
-## Misión
-Ofrecer soluciones innovadoras impulsadas por la ciencia de datos, adaptándonos a las necesidades de cada cliente para generar resultados medibles y estratégicos.
+## Misión, Visión y Valores
 
-## Visión
-Ser líderes en la creación de soluciones inteligentes y personalizadas mediante el poder de los datos, transformando la toma de decisiones estratégicas en las empresas.
+**Misión**: Ofrecer soluciones innovadoras impulsadas por la ciencia de datos, adaptándonos a las necesidades únicas de cada cliente para generar resultados medibles y estratégicos.
 
-## Valores
-- **Innovación continua**: Exploramos nuevas tecnologías y enfoques disruptivos.
-- **Centrados en el cliente**: Escuchamos y anticipamos las necesidades de nuestros clientes.
-- **Data-driven**: Tomamos decisiones basadas en datos sólidos.
-- **Transparencia radical**: Priorizamos la honestidad y claridad en cada paso.
-- **Cultura colaborativa**: Fomentamos la sinergia y co-creación con nuestros clientes.
-- **Responsabilidad social**: Nos comprometemos a un uso ético de los datos.
-- **Agilidad**: Nos adaptamos rápidamente a los cambios del entorno.
+**Visión**: Ser líderes en la creación de soluciones inteligentes y personalizadas a través del poder de los datos, transformando la manera en que las empresas toman decisiones estratégicas y logrando un impacto positivo en sus resultados.
 
-<!-- PROYECTO SALFORD-FILADELFIA -->
+**Valores**:
+- Innovación continua
+- Centrados en el cliente
+- Data-driven
+- Transparencia radical
+- Cultura colaborativa
+- Responsabilidad social
+- Agilidad
 
-# Proyecto Salford-Filadelfia
-
-![Proyecto Salford-Filadelfia](./Data/Images/Salford-Filadelfia.png)
-
-<!-- Contexto -->
-
-## Contexto
-Un inversor nos contrató para realizar un análisis de mercado y ofrecer propuestas de negocios para invertir en Filadelfia, USA, utilizando reseñas de Yelp y Google Maps para determinar los mejores rubros y ubicaciones para nuevos locales.
-
-<!-- Alcance -->
-
-## Alcance
-Analizaremos el área comercial de Filadelfia (EE.UU) entre 2015 y 2022.
-
-<!-- Objetivos Específicos -->
+<!-- OBJETIVOS ESPECÍFICOS -->
 
 ## Objetivos Específicos
-Proponemos realizar un análisis riguroso para identificar áreas de inversión favorables mediante un sistema predictivo que detecte patrones a partir de datos clave del mercado.
+Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos realizar un análisis riguroso para sugerir las áreas de inversión más favorables, mediante un sistema predictivo que detecte patrones a partir de datos clave del mercado.
 
-1. **Recopilar datos**
-    - Extraer y limpiar datos de Yelp y Google Maps.
-    - Integrar estos datos en un Data Warehouse para manipular grandes volúmenes de información.
+1. **Recopilar datos**:
+   - Extraer y limpiar los datos de Yelp y Google Maps.
+   - Integrar estos datos en un Data Warehouse que permita el acceso y manipulación de grandes volúmenes de datos.
 
-2. **Análisis Exploratorio de Datos (EDA)**
-    - Identificar las principales categorías de negocio y ubicaciones más frecuentadas.
-    - Evaluar la distribución geográfica y demográfica de los locales comerciales en Filadelfia.
-    - Analizar puntuaciones y reseñas para obtener insights sobre la satisfacción de los clientes.
+2. **Análisis Exploratorio de Datos (EDA)**:
+   - Identificar las principales categorías de negocio y ubicaciones más frecuentadas.
+   - Evaluar la distribución geográfica y demográfica de los locales comerciales en Filadelfia.
+   - Analizar puntuaciones y reseñas para obtener insights sobre la satisfacción de los clientes.
 
-3. **Modelado Predictivo**
-    - Desarrollar un modelo de machine learning para predecir la viabilidad de nuevas inversiones.
-    - Aplicar técnicas de procesamiento de lenguaje natural (NLP) para extraer información valiosa de las reseñas.
+3. **Modelado Predictivo**:
+   - Desarrollar un modelo de machine learning que permita predecir la viabilidad de nuevas inversiones.
+   - Aplicar técnicas de procesamiento de lenguaje natural (NLP) para extraer información valiosa de las reseñas.
 
-4. **Propuesta de Inversión**
-    - Proporcionar un informe detallado con recomendaciones sobre las mejores oportunidades de inversión.
-    - Desarrollar un sistema de visualización de datos que permita a los inversores interactuar con los análisis.
+4. **Propuesta de Inversión**:
+   - Proporcionar un informe detallado con recomendaciones basadas en los análisis realizados.
+   - Desarrollar un sistema de visualización de datos que facilite la toma de decisiones estratégicas.
 
-<!-- KPI -->
+<!-- KPI'S -->
 
 ## KPI's
 1. **Variación de la calificación promedio de estrellas (%)**:
@@ -97,9 +90,9 @@ Proponemos realizar un análisis riguroso para identificar áreas de inversión 
 3. **Crecimiento de la base de clientes (%)**:
    ![Formula 3](Data/Images/KPI_3.png)
 
-*Nota: Estos KPI's son medidores de popularidad y sentimiento para utilizar una vez se establezca un negocio.*
+* Aclaración: Los KPI's planteados están pensados como medidores de popularidad y sentimiento para ser utilizados una vez se establezca un negocio.
 
-<!-- STACK TECNOLOGICO -->
+<!-- STACK TECNOLÓGICO -->
 
 ## Stack Tecnológico
 
@@ -111,60 +104,55 @@ Proponemos realizar un análisis riguroso para identificar áreas de inversión 
 
 ### Entornos de desarrollo y edición de Código
 <img src="Data/Images/Icons/VS-code-logo.png" title="VSCode" alt="vscode" width="40" height="40"/> Visual Studio Code 
-<img src="Data/Images/Icons/jupyter.png" title="VSCode" alt="vscode" width="40" height="40"/> Jupyter
+<img src="Data/Images/Icons/jupyter.png" title="Jupyter" alt="jupyter" width="40" height="40"/> Jupyter
 
 ### Análisis y visualización de los datos
 <img src="Data/Images/Icons/pandas-logo-300.png" title="Pandas" alt="pandas" width="40" height="40"/> Pandas 
-<img src="Data/Images/Icons/numpy-original.svg" title="VSCode" alt="vscode" width="40" height="40"/> NumPy 
-<img src="Data/Images/Icons/matplotlib-original.svg" title="VSCode" alt="vscode" width="40" height="40"/> Matplotlib 
-<img src="Data/Images/Icons/seaborn-icon.svg" title="VSCode" alt="vscode" width="40" height="40"/> Seaborn 
-<img src="Data/Images/Icons/powerbi.svg" title="VSCode" alt="vscode" width="40" height="40"/> Power BI
+<img src="Data/Images/Icons/numpy-original.svg" title="NumPy" alt="numpy" width="40" height="40"/> NumPy 
+<img src="Data/Images/Icons/matplotlib-original.svg" title="Matplotlib" alt="matplotlib" width="40" height="40"/> Matplotlib 
+<img src="Data/Images/Icons/seaborn-icon.svg" title="Seaborn" alt="seaborn" width="40" height="40"/> Seaborn 
+<img src="Data/Images/Icons/powerbi.svg" title="Power BI" alt="powerbi" width="40" height="40"/> Power BI
 
 ### Procesamiento de lenguaje natural
-<img src="Data/Images/Icons/NLTK-85.webp" title="VSCode" alt="vscode" width="40" height="40"/> NLTK
+<img src="Data/Images/Icons/NLTK-85.webp" title="NLTK" alt="nltk" width="40" height="40"/> NLTK
 
 ### Aprendizaje Automático
-<img src="Data/Images/Icons/scikit-learn-logo-big.png" title="VSCode" alt="vscode" width="40" height="40"/> Scikit-learn
+<img src="Data/Images/Icons/scikit-learn-logo-big.png" title="Scikit-learn" alt="scikit-learn" width="40" height="40"/> Scikit-learn
 
-### Plataformas de Computación en la nube
-<img src="Data/Images/Icons/google-cloud-icon.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Cloud 
-<img src="Data/Images/Icons/bigquery.svg" title="VSCode" alt="vscode" width="40" height="40"/> BigQuery
+### Plataformas de Computación en la Nube
+<img src="Data/Images/Icons/google-cloud-icon.png" title="Google Cloud" alt="google-cloud" width="40" height="40"/> Google Cloud 
+<img src="Data/Images/Icons/bigquery.svg" title="BigQuery" alt="bigquery" width="40" height="40"/> BigQuery
 
-### Orquestación y Automatización de flujos 
-<img src="Data/Images/Icons/Functions.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Functions 
-<img src="Data/Images/Icons/Scheduler.png" title="VSCode" alt="vscode" width="40" height="40"/> Google Scheduler
+### Orquestación y Automatización de Flujos 
+<img src="Data/Images/Icons/Functions.png" title="Google Functions" alt="google-functions" width="40" height="40"/> Google Functions 
+<img src="Data/Images/Icons/Scheduler.png" title="Google Scheduler" alt="google-scheduler" width="40" height="40"/> Google Scheduler
 
 ### Desarrollo de Aplicaciones Web
-<img src="Data/Images/Icons/streamlit-original.svg" title="VSCode" alt="vscode" width="40" height="40"/> Streamlit
+<img src="Data/Images/Icons/streamlit-original.svg" title="Streamlit" alt="streamlit" width="40" height="40"/> Streamlit
 
-<!-- DIAGRAMA GANTT -->
+<!-- DIAGRAMA DE GANTT -->
 
 ## Diagrama de Gantt
 ![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Project.png)
 
-<!-- PIPELINE -->
-
-## Pipeline
-![Pipeline](./Data/Images/workflow.png)
-
-<!-- ANALISIS EXPLORATORIO DE DATOS -->
+<!-- ANÁLISIS EXPLORATORIO DE DATOS -->
 
 ## Análisis Exploratorio de Datos 
-### Distribución de negocios top 12 ciudades (Yelp)
+### Distribución de Negocios Top 12 Ciudades (Yelp)
 ![Top12Ciudades](./Data/Images/top_12_ciudades.png)
 
-### Top 20 categorías más comunes (Google Maps)
+### Top 20 Categorías Más Comunes (Google Maps)
 ![Top20Categorias](./Data/Images/Top_Categorias.png)
 
-<!-- MODELO ML -->
+<!-- MODELO MACHINE LEARNING -->
 
 ## Modelo Machine Learning
 - [Modelo Machine Learning](https://pfappapp-cspnibhve4hyda4hv7mkzs.streamlit.app/)
 
 <!-- DATASETS Y FUENTES COMPLEMENTARIAS -->
 
-## Datasets y fuentes complementarias 
-Los datos se extraen de las plataformas **Yelp** y **Google Maps** para **Estados Unidos**. Incluyen información sobre ubicación de comercios, categoría, puntajes promedio, estado de apertura, usuarios, reseñas, y más. Se recomienda el uso de **NLP** para procesar la información de las reseñas.
+## Datasets y Fuentes Complementarias 
+Los datos son extraídos de la plataforma de reseñas **Yelp** y de **Google Maps** para **Estados Unidos**. Incluyen información sobre la ubicación de los comercios, su categoría, puntajes promedios, y reseñas.
 
 ### Diccionario de Datos
 - [Diccionario de Datos](https://docs.google.com/document/d/1wp87RQDi-Qv1rIYS5CRFyrhT0XSjsl6IxVqsItqPHKc/edit?usp=sharing)
@@ -181,12 +169,13 @@ Los datos se extraen de las plataformas **Yelp** y **Google Maps** para **Estado
 <!-- ESTRUCTURA DEL PROYECTO -->
 
 ## Estructura del Proyecto
-* `Data/`: Contiene los archivos de datos utilizados en el proyecto.
-* `Notebooks/`: Notebooks de Jupyter con análisis y modelos.
-* `ETL/`: Notebooks de Jupyter para el trabajo sobre los datos.
-* `ML/`: El modelo de ML.
+* **Data/** : Contiene los archivos de datos utilizados en el proyecto.
+* **Notebooks/** : Notebooks de Jupyter con el análisis y modelos.
+* **ETL/** : Notebooks de Jupyter con el trabajo sobre los datos.
+* **ML/** : El modelo de ML.
+  
+<!-- REFERENCIAS -->
 
------
------
------
-
+## Referencias
+- Documentación de [Yelp API](https://www.yelp.com/developers/documentation/v3)
+- Documentación de [Google Maps API](https://developers.google.com/maps/documentation)
