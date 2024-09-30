@@ -96,39 +96,57 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 
 ## Stack Tecnológico
 
-### Lenguajes de programación
-<img src="Data/Images/Icons/pyhon-logo.png" title="Python" alt="python" width="40" height="40"/> Python 
+### Lenguajes de Programación
+<img src="Data/Images/Icons/pyhon-logo.png" title="Python" alt="Python" width="40" height="40"/> **Python**
+
+---
 
 ### Control de Versiones y Colaboración
-<img src="Data/Images/Icons/git.png" title="Git" alt="Git" width="40" height="40"/> Git <img src="Data/Images/Icons/github.png" title="Git" alt="Git" width="40" height="40"/> Github
+<img src="Data/Images/Icons/git.png" title="Git" alt="Git" width="40" height="40"/> **Git**  
+<img src="Data/Images/Icons/github.png" title="GitHub" alt="GitHub" width="40" height="40"/> **GitHub**
 
-### Entornos de desarrollo y edición de Código
-<img src="Data/Images/Icons/VS-code-logo.png" title="VSCode" alt="vscode" width="40" height="40"/> Visual Studio Code 
-<img src="Data/Images/Icons/jupyter.png" title="Jupyter" alt="jupyter" width="40" height="40"/> Jupyter
+---
 
-### Análisis y visualización de los datos
-<img src="Data/Images/Icons/pandas-logo-300.png" title="Pandas" alt="pandas" width="40" height="40"/> Pandas 
-<img src="Data/Images/Icons/numpy-original.svg" title="NumPy" alt="numpy" width="40" height="40"/> NumPy 
-<img src="Data/Images/Icons/matplotlib-original.svg" title="Matplotlib" alt="matplotlib" width="40" height="40"/> Matplotlib 
-<img src="Data/Images/Icons/seaborn-icon.svg" title="Seaborn" alt="seaborn" width="40" height="40"/> Seaborn 
-<img src="Data/Images/Icons/powerbi.svg" title="Power BI" alt="powerbi" width="40" height="40"/> Power BI
+### Entornos de Desarrollo y Edición de Código
+<img src="Data/Images/Icons/VS-code-logo.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/> **Visual Studio Code**  
+<img src="Data/Images/Icons/jupyter.png" title="Jupyter" alt="Jupyter" width="40" height="40"/> **Jupyter**
 
-### Procesamiento de lenguaje natural
-<img src="Data/Images/Icons/NLTK-85.webp" title="NLTK" alt="nltk" width="40" height="40"/> NLTK
+---
+
+### Análisis y Visualización de Datos
+<img src="Data/Images/Icons/pandas-logo-300.png" title="Pandas" alt="Pandas" width="40" height="40"/> **Pandas**  
+<img src="Data/Images/Icons/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/> **NumPy**  
+<img src="Data/Images/Icons/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/> **Matplotlib**  
+<img src="Data/Images/Icons/seaborn-icon.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/> **Seaborn**  
+<img src="Data/Images/Icons/powerbi.svg" title="Power BI" alt="Power BI" width="40" height="40"/> **Power BI**
+
+---
+
+### Procesamiento de Lenguaje Natural
+<img src="Data/Images/Icons/NLTK-85.webp" title="NLTK" alt="NLTK" width="40" height="40"/> **NLTK**
+
+---
 
 ### Aprendizaje Automático
-<img src="Data/Images/Icons/scikit-learn-logo-big.png" title="Scikit-learn" alt="scikit-learn" width="40" height="40"/> Scikit-learn
+<img src="Data/Images/Icons/scikit-learn-logo-big.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/> **Scikit-learn**
+
+---
 
 ### Plataformas de Computación en la Nube
-<img src="Data/Images/Icons/google-cloud-icon.png" title="Google Cloud" alt="google-cloud" width="40" height="40"/> Google Cloud 
-<img src="Data/Images/Icons/bigquery.svg" title="BigQuery" alt="bigquery" width="40" height="40"/> BigQuery
+<img src="Data/Images/Icons/google-cloud-icon.png" title="Google Cloud" alt="Google Cloud" width="40" height="40"/> **Google Cloud**  
+<img src="Data/Images/Icons/bigquery.svg" title="BigQuery" alt="BigQuery" width="40" height="40"/> **BigQuery**
 
-### Orquestación y Automatización de Flujos 
-<img src="Data/Images/Icons/Functions.png" title="Google Functions" alt="google-functions" width="40" height="40"/> Google Functions 
-<img src="Data/Images/Icons/Scheduler.png" title="Google Scheduler" alt="google-scheduler" width="40" height="40"/> Google Scheduler
+---
+
+### Orquestación y Automatización de Flujos
+<img src="Data/Images/Icons/Functions.png" title="Google Functions" alt="Google Functions" width="40" height="40"/> **Google Functions**  
+<img src="Data/Images/Icons/Scheduler.png" title="Google Scheduler" alt="Google Scheduler" width="40" height="40"/> **Google Scheduler**
+
+---
 
 ### Desarrollo de Aplicaciones Web
-<img src="Data/Images/Icons/streamlit-original.svg" title="Streamlit" alt="streamlit" width="40" height="40"/> Streamlit
+<img src="Data/Images/Icons/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/> **Streamlit**
+
 
 <!-- ANÁLISIS EXPLORATORIO DE DATOS -->
 
