@@ -130,11 +130,6 @@ Utilizando herramientas tecnológicas basadas en ciencia de datos, proponemos re
 ### Desarrollo de Aplicaciones Web
 <img src="Data/Images/Icons/streamlit-original.svg" title="Streamlit" alt="streamlit" width="40" height="40"/> Streamlit
 
-<!-- DIAGRAMA DE GANTT -->
-
-## Diagrama de Gantt
-![DiagramaGanttProject](./Data/Images/Diagrama_Gantt_Project.png)
-
 <!-- ANÁLISIS EXPLORATORIO DE DATOS -->
 
 ## Análisis Exploratorio de Datos 
