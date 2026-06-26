@@ -1,3 +1,5 @@
+> **Nota:** Este repo es un fork de un proyecto grupal ([Franiturriagaa/PF-Google-Yelps-Final](https://github.com/Franiturriagaa/PF-Google-Yelps-Final)). _TODO: completar cuál fue mi aporte específico dentro del equipo (ej. módulo de NLP/sentiment, ETL de un dataset puntual, etc.)._
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:34A853,100:0d1117&height=180&section=header&text=Google%20%26%20Yelp%20Analytics&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Market%20Intelligence%20%7C%20NLP%20Sentiment%20%7C%20BigQuery%20%2B%20Streamlit&descAlignY=60&descSize=17&descColor=a8f0c6" />
 
 <div align="center">
