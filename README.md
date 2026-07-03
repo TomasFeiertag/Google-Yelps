@@ -19,11 +19,6 @@
 
 </div>
 
-<div align="center">
-
-🚀 **[Live ML App →](https://pfappapp-cspnibhve4hyda4hv7mkzs.streamlit.app/)**
-
-</div>
 
 ---
 
