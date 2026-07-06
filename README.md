@@ -7,13 +7,12 @@
 > - Técnicas de NLP para extraer insights de reseñas de clientes.
 > - Sistema de visualización interactiva de datos para la toma de decisiones.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:34A853,100:0d1117&height=180&section=header&text=Google%20%26%20Yelp%20Analytics&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Market%20Intelligence%20%7C%20NLP%20Sentiment%20%7C%20BigQuery%20%2B%20Streamlit&descAlignY=60&descSize=17&descColor=a8f0c6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:34A853,100:0d1117&height=180&section=header&text=Google%20%26%20Yelp%20Analytics&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Market%20Intelligence%20%7C%20NLP%20Sentiment%20%7C%20BigQuery&descAlignY=60&descSize=17&descColor=a8f0c6" />
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
@@ -24,7 +23,7 @@
 
 ## 📌 Overview
 
-Big data market analysis project for **Philadelphia, USA**, using Google Maps and Yelp reviews (2015–2022) to identify optimal investment opportunities in the commercial sector. Built a full data pipeline from raw data to a deployed ML-powered recommendation app.
+Big data market analysis project for **Philadelphia, USA**, using Google Maps and Yelp reviews (2015–2022) to identify optimal investment opportunities in the commercial sector. Built a full data pipeline from raw data to a predictive ML model for business investment insights.
 
 **Client:** Fictional investor seeking to enter the Philadelphia market  
 **Team:** OpportUnity (5 Data Engineers, Analysts & ML Engineers)
@@ -70,7 +69,6 @@ Big data market analysis project for **Philadelphia, USA**, using Google Maps an
 | **NLP** | NLTK (sentiment analysis on reviews) |
 | **ML** | Scikit-learn |
 | **Cloud** | Google Cloud, BigQuery, Google Functions, Cloud Scheduler |
-| **Web App** | Streamlit |
 | **Version Control** | Git, GitHub |
 
 ---
@@ -86,7 +84,7 @@ Yelp + Google Maps Data ──► ETL ──► BigQuery Data Warehouse
                               │                     │
                               └──────────┬──────────┘
                                          ▼
-                               Streamlit Dashboard
+                                    Power BI
 ```
 
 ---
